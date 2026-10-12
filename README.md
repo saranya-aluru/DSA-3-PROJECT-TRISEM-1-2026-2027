@@ -109,13 +109,14 @@ Open the local URL displayed in the terminal to use the application.
 
 The results depend on the documents available for comparison. Exact matching algorithms may not detect paraphrased text, and similar content does not necessarily indicate plagiarism. Results should be reviewed alongside the original sources and citations.
 
-## Author
+## Authors
 
-**Saranya Aluru**  
-B.Tech — Artificial Intelligence and Data Science
+- **Saranya Aluru** — [GitHub](https://github.com/saranya-aluru)
+- **DSriVarshini** — [GitHub](https://github.com/DSriVarshini)
+- **Manya Akshitha** — [GitHub](https://github.com/manyaakshitha07)
 
-GitHub: [saranya-aluru](https://github.com/saranya-aluru)
-
----
+**Project:** Word-Level Plagiarism Checker  
+**Domain:** Data Structures and Algorithms (DSA)  
+**Language:** Python
 
 *Developed as an academic project demonstrating the practical application of Data Structures and Algorithms to document similarity analysis.*
